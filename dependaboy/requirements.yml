@@ -1,0 +1,7 @@
+- name: test
+  src: github.com/test
+  version: v1.0.2
+
+- name: test2
+  src: github.com/test2
+  version: v2.0.2
